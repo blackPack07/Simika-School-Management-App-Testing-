@@ -24,8 +24,8 @@ This repository contains all the test artifacts related to the *Functional* and 
 |------|-------------|
 | 📄 Test Cases | Can't Provide due to data security |
 | 🐞 Bug Report | Available on google drive - [Click👉-https://drive.google.com/file/d/1nZ2KO3N1GE6hsaTgs-nrXu1OW_R_and9/view?usp=drivesdk] |
-| 📊 Test Summary | TestSummaryReport.md |
-| 📹 Screenshots and Recordings | View in Google drive folder | Click👉-(https://drive.google.com/drive/folders/1JhAwUEpd97ZqHe5xQp85J2X4I5zbbUNF)|
+| 📊 Test Summary | Available in above 👆🏽 |
+| 📹 Screenshots and Recordings | [Click👉- https://drive.google.com/drive/folders/1JhAwUEpd97ZqHe5xQp85J2X4I5zbbUNF]|
 
 ---
 
